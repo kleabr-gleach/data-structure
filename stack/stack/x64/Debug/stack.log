@@ -1,0 +1,4 @@
+﻿  stack.cpp
+C:\Users\morya\source\repos\stack\stack\stack.cpp(37,1): warning C4715: 'pop': not all control paths return a value
+C:\Users\morya\source\repos\stack\stack\stack.cpp(46,1): warning C4715: 'peek': not all control paths return a value
+  stack.vcxproj -> C:\Users\morya\source\repos\stack\x64\Debug\stack.exe
